@@ -92,7 +92,7 @@ Estou me preparando para a **minha primeira oportunidade como Dev Júnior** — 
 
 <div align="center">
 
-> ⚠️ **Lembre de trocar `SEU_USERNAME` pelo seu username real do GitHub nas linhas abaixo!**
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=fff5f8&title_color=b05070&icon_color=d4a0b5&text_color=7a4060&ring_color=e8b4c8)
 
