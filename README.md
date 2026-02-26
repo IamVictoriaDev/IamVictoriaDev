@@ -33,7 +33,7 @@ Estou me preparando para a **minha primeira oportunidade como Dev Júnior** — 
 
 <br>
 
-## 🧸 O que já sei fazer
+## 🧸 Minhas habilidades
 
 ```
 🌸  Backend com Node.js + Express    ✔  dominado
@@ -94,9 +94,9 @@ Estou me preparando para a **minha primeira oportunidade como Dev Júnior** — 
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=fff5f8&title_color=b05070&icon_color=d4a0b5&text_color=7a4060&ring_color=e8b4c8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamVictoriaDev&show_icons=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&bg_color=fff5f8&title_color=b05070&text_color=7a4060)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamVictoriaDev&layout=compact&cache_seconds=86400)
 
 </div>
 
