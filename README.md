@@ -12,9 +12,9 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamVictoriaDev&show_icons=true&theme=default"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamVictoriaDev&layout=compact"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23c9b1e8?style=for-the-badge&logo=linkedin&logoColor=6a3d9a)](https://www.linkedin.com/in/victoriaingrid-tech/)
+[![Email](https://img.shields.io/badge/Gmail-%23f7c5d0?style=for-the-badge&logo=gmail&logoColor=a03050)](mailto:victoriaingrid685@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=IamVictoriaDev&style=for-the-badge&color=f7c5d0&label=visitas&labelColor=e8a0b4)](https://github.com/IamVictoriaDev)
 
 <br>
 
@@ -31,6 +31,17 @@ Oi! Sou a **Victoria**, desenvolvedora Full-Stack em formação pela **Programad
 Meu coração bate mais forte pelo **backend** — adoro construir APIs REST, estruturar bancos de dados e ver tudo se encaixar no final. Mas também sei me virar no front! 😄
 
 Estou me preparando para a **minha primeira oportunidade como Dev Júnior** — cada projeto é um passo nessa jornada, e cada erro virou aprendizado. Acredito que tecnologia pode transformar histórias. Inclusive a minha. 🚀
+
+<br>
+
+🛠️ **O que eu já aplico na prática:**
+- Construção de **APIs REST** com Node.js e Express
+- Estrutura de projetos com **arquitetura MVC**
+- Operações **CRUD** completas com banco de dados
+- Modelagem e consultas em **MySQL, SQLite e Sequelize**
+- Versionamento de código com **Git e GitHub**
+- Interface web com **HTML, CSS** e iniciando em **React**
+- Trabalho em **squads** com metodologia ágil
 
 <br>
 
@@ -93,11 +104,10 @@ Estou me preparando para a **minha primeira oportunidade como Dev Júnior** — 
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=IamVictoriaDev&hide_border=true&background=fff5f8&ring=e8b4c8&fire=b05070&currStreakLabel=b05070&sideLabels=7a4060&dates=7a4060&currStreakNum=b05070&sideNums=b05070)](https://github.com/IamVictoriaDev)
 
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamVictoriaDev&theme=rose_pine)](https://github.com/IamVictoriaDev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamVictoriaDev&show_icons=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamVictoriaDev&layout=compact&cache_seconds=86400)
 </div>
 
 <br>
