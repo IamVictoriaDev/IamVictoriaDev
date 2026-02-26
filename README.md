@@ -1,92 +1,122 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:06B6D4&height=230&section=header&text=Victoria%20Ingrid&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
 
-<p align="center">
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=Junior+Fullstack+Developer;Backend+Focused+%7C+Node.js+APIs;Programadores+do+Amanha+Student;Building+Real+Projects+Everyday"/>
+✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿
 
-</p>
+<br>
 
----
+# 💐 Olá, eu sou a Victoria Ingrid!
 
-## Developer Log
+### ✨ Full-Stack Developer em formação · apaixonada por backend · São Paulo 🇧🇷
 
-I’m Victoria Ingrid, a Full-Stack Developer in training through **Programadores do Amanhã**.
+<br>
 
-My main focus is backend development — building REST APIs using Node.js, structuring databases and applying MVC architecture in real projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23c9b1e8?style=for-the-badge&logo=linkedin&logoColor=6a3d9a)](https://www.linkedin.com/in/victoriaingrid-tech/)
+[![Email](https://img.shields.io/badge/Gmail-%23f7c5d0?style=for-the-badge&logo=gmail&logoColor=a03050)](mailto:victoriaingrid685@gmail.com)
 
-Currently balancing professional work experience while preparing for my first opportunity in technology.
+<br>
 
----
+✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿
 
-## Current Build Status
+</div>
+
+<br>
+
+## 🌷 Sobre mim
+
+Oi! Sou a **Victoria**, desenvolvedora Full-Stack em formação pela **Programadores do Amanhã** 💜
+
+Meu coração bate mais forte pelo **backend** — adoro construir APIs REST, estruturar bancos de dados e ver tudo se encaixar no final. Mas também sei me virar no front! 😄
+
+Estou me preparando para a **minha primeira oportunidade como Dev Júnior** — cada projeto é um passo nessa jornada, e cada erro virou aprendizado. Acredito que tecnologia pode transformar histórias. Inclusive a minha. 🚀
+
+<br>
+
+## 🧸 O que já sei fazer
 
 ```
-Backend APIs ............. ✔
-CRUD Applications ........ ✔
-MVC Architecture ......... ✔
-SQL Databases ............ ✔
-React Learning ........... in progress
+🌸  Backend com Node.js + Express    ✔  dominado
+🌸  APIs REST do zero                ✔  dominado
+🌸  CRUD com arquitetura MVC         ✔  dominado
+🌸  Banco de dados SQL + NoSQL       ✔  dominado
+🌷  React.js                         ⟳  em progresso...
+🌟  Primeira vaga como Dev Júnior    ▶  vem aí!
 ```
 
----
+<br>
 
-## Toolbox
+## 🌿 Minhas tecnologias
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,mysql,sqlite,react,git,github,html,css"/>
+**Backend**
 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-ffeaa7?style=flat-square&logo=javascript&logoColor=b8860b)
+![Node.js](https://img.shields.io/badge/Node.js-c8f7c5?style=flat-square&logo=nodedotjs&logoColor=2e7d32)
+![Express](https://img.shields.io/badge/Express.js-dfe6e9?style=flat-square&logo=express&logoColor=333)
 
----
+**Banco de dados**
 
-## Journey
+![MySQL](https://img.shields.io/badge/MySQL-d6eaf8?style=flat-square&logo=mysql&logoColor=1a5276)
+![SQLite](https://img.shields.io/badge/SQLite-e8daef?style=flat-square&logo=sqlite&logoColor=6c3483)
+![Sequelize](https://img.shields.io/badge/Sequelize-d5e8ff?style=flat-square&logo=sequelize&logoColor=1a5276)
 
-2024 → Started Full-Stack Development Training  
-2025 → Built CRUD systems and REST APIs  
-2026 → Preparing for my first Junior Developer role 🚀
+**Frontend**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-ffe0cc?style=flat-square&logo=html5&logoColor=c0392b)
+![CSS3](https://img.shields.io/badge/CSS3-cce5ff?style=flat-square&logo=css3&logoColor=1a5276)
+![React](https://img.shields.io/badge/React-d0eaf8?style=flat-square&logo=react&logoColor=1a6fa3)
 
-## GitHub Activity
+**Ferramentas**
 
-<p align="center">
+![Git](https://img.shields.io/badge/Git-fddcdc?style=flat-square&logo=git&logoColor=c0392b)
+![GitHub](https://img.shields.io/badge/GitHub-ebebeb?style=flat-square&logo=github&logoColor=333)
+![REST API](https://img.shields.io/badge/REST%20API-fce4ec?style=flat-square&logo=postman&logoColor=b83060)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IamVictoriaDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamVictoriaDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
 
-</p>
+## 🌼 Minha jornada
 
----
+| Ano | Marco |
+|-----|-------|
+| 🌱 2024 | Comecei o treinamento Full-Stack pela Programadores do Amanhã (720h) |
+| 🌸 2025 | Desenvolvi APIs REST, CRUDs completos e projetos em equipe (squads) |
+| 🌟 2026 | Me preparando para minha primeira vaga como Dev Júnior 🚀 |
 
-## Contribution Trail
+<br>
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+## 📊 Meus stats
 
----
+<div align="center">
 
-## Soft Skills
+> ⚠️ **Lembre de trocar `SEU_USERNAME` pelo seu username real do GitHub nas linhas abaixo!**
 
-✔ Communication  
-✔ Organization  
-✔ Fast Learning  
-✔ Team Collaboration
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=fff5f8&title_color=b05070&icon_color=d4a0b5&text_color=7a4060&ring_color=e8b4c8)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&bg_color=fff5f8&title_color=b05070&text_color=7a4060)
 
-## Visitors
+</div>
 
-![](https://komarev.com/ghpvc/?username=IamVictoriaDev&color=06B6D4)
+<br>
 
----
+## 💌 Bora se conectar?
 
-## Contact
+<div align="center">
 
-São Paulo — Brazil 🇧🇷
+Estou aberta a oportunidades, parcerias e troca de ideias!  
+Se quiser conversar, é só me chamar — adoro pessoas 🌸
 
-LinkedIn  
-https://www.linkedin.com/in/victoriaingrid-tech/
+<br>
 
-Email  
-victoriaingrid685@gmail.com
+📍 São Paulo, Brasil &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/victoriaingrid-tech/) &nbsp;·&nbsp; 📧 [victoriaingrid685@gmail.com](mailto:victoriaingrid685@gmail.com)
+
+<br>
+
+✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿ ° 🌸 ° ✿
+
+*feito com carinho, código e muito café* ☕💜
+
+</div>
