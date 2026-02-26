@@ -12,8 +12,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23c9b1e8?style=for-the-badge&logo=linkedin&logoColor=6a3d9a)](https://www.linkedin.com/in/victoriaingrid-tech/)
-[![Email](https://img.shields.io/badge/Gmail-%23f7c5d0?style=for-the-badge&logo=gmail&logoColor=a03050)](mailto:victoriaingrid685@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamVictoriaDev&show_icons=true&theme=default"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamVictoriaDev&layout=compact"/>
 
 <br>
 
