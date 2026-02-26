@@ -26,11 +26,13 @@
 
 ## 🌷 Sobre mim
 
-Oi! Sou a **Victoria**, desenvolvedora Full-Stack em formação pela **Programadores do Amanhã** 💜
+Sou a Victoria, desenvolvedora Full-Stack em formação pela Programadores do Amanhã 💜.
 
-Meu coração bate mais forte pelo **backend** — adoro construir APIs REST, estruturar bancos de dados e ver tudo se encaixar no final. Mas também sei me virar no front! 😄
+Entrei na tecnologia buscando mudança profissional e encontrei na programação algo que combina com meu perfil: lógica, estrutura e resolução de problemas.
 
-Estou me preparando para a **minha primeira oportunidade como Dev Júnior** — cada projeto é um passo nessa jornada, e cada erro virou aprendizado. Acredito que tecnologia pode transformar histórias. Inclusive a minha. 🚀
+Tenho maior afinidade com backend, desenvolvendo APIs REST com Node.js e Express, aplicando arquitetura MVC e trabalhando com bancos de dados como MySQL e SQLite via Sequelize. Gosto de organizar o código de forma clara e pensar na estrutura antes de implementar.
+
+Atualmente sigo evoluindo no front-end com React, enquanto me preparo para minha primeira oportunidade como Dev Júnior.
 
 <br>
 
