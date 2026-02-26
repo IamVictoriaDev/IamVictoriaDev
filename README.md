@@ -94,10 +94,9 @@ Estou me preparando para a **minha primeira oportunidade como Dev Júnior** — 
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamVictoriaDev&show_icons=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamVictoriaDev&show_icons=true&cache_seconds=86400)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamVictoriaDev&layout=compact&cache_seconds=86400)
-
 </div>
 
 <br>
